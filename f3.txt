@@ -1,2 +1,2 @@
 f3.txt 파일을 생성
-f3.txt 파일을 topic2 브랜치에서 수정함
+f3.txt 파일 수정 관련 topic1/topic2 브랜치 충돌 해결
